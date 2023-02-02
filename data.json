@@ -1,0 +1,51 @@
+[
+    {
+        "id" : "1",
+        "anal" : "une fleur",
+        "val" : "une edelweiss",
+        "explication" :"si j’ai choisi cette fleur, c’est parce que je la trouve belle, d’un blanc lumineux et pur avec ses pétales tout doux. Bien que ce soit une fleur à courte vie, elle ne ressemble à aucune fleur.",
+        "images" :"./image/edelweiss.jpg"
+    },
+    {
+        "id" : "2",
+        "anal" : " un film",
+        "val" : "Nausicaa de la Vallée du vent",
+        "explication" :"ce film fait partie de mon enfance et me rappelle de bon souvenir, mais aussi que ce film montre un personnage féminin fort.",
+        "images" :"./image/nausicaa.jpeg"
+    },
+    {
+        "id" : "3",
+        "anal" : "une couleur",
+        "val" : "bleu nuit",
+        "explication" :"cette couleur m’inspire le calme, mais aussi de la profondeur. Elle me fait penser à l’hiver et aux soirs de neige, d’être au chaud dans un chalet ou un manoir perdu dans la montagne.",
+        "images" :"./image/bleu_nuit.png"
+    },
+    {
+        "id" : "4",
+        "anal" : "un webtoon",
+        "val" : "Omniscient reader's viewer point",
+        "explication" :"c'est le premier webtoon que j'ai découvert et qui m'a fait aimé les webtoons. Je suis tombée amoureuse de son design et cela me donne encore plus envie d'en découvrir d'autres notamment avec d'autres styles graphiques et bien sur d'autres histoires.",
+        "images" :"./image/ORV.webp"
+    },
+    {
+        "id" : "5",
+        "anal" : "une arme",
+        "val" : "une épée",
+        "explication" :"je peux être aussi tranchant quelle, mais aussi, car j’ai besoin d’une main de libre pour pouvoir faire plus de chose, d’être plus libre. Mais aussi que je peux attaquer plus vite et de plus près, de front prêt à en découdre.",
+        "images" :"./image/epee.jpg"
+    },
+    {
+        "id" : "6",
+        "anal" : "un personnage fictif ",
+        "val" : "Kim Dokja ",
+        "explication" :" je souhaite entre aussi persévérant et me battre dans la vie, prêt à me démener pour atteindre mes objectifs. Comme lui qui persévère pour atteindre ses buts précisément, sans oublier celui initiale.",
+        "images" :"./image/kim_dokja.jpg"
+    },
+    {
+        "id" : "7",
+        "anal" : "une saison",
+        "val" : "l'hiver",
+        "explication" :" c’est une des plus belles saisons malgré le froid présent celui-ci ne me dérange pas au contraire, je préfère le froid comme ça je n’ai pas trop chaud et je peux donc m’habiller comme je veux. De plus, il neige et j’adore voir le paysage se recouvrir d’un voile blanc qui brille sous le soleil. C’est saison est vivant et joyeux pour moi contrairement aux autres qui ne l’aime pas.",
+        "images" :"./image/paysage_de_neige.jpg"
+    }
+]
